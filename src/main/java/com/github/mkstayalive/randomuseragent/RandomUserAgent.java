@@ -1,3 +1,4 @@
+package com.github.mkstayalive.randomuseragent;
 
 import java.util.HashMap;
 import java.util.Map;
